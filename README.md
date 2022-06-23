@@ -1,4 +1,4 @@
-[![MasterHead](https://images.gog-statics.com/6ef71d04edabece8a1cf42bbca8a6d734e69e0136a9b87a237664c0403cc5e09.jpg)](https://rishavchanda.io)
+[![MasterHead](https://images.gog-statics.com/6ef71d04edabece8a1cf42bbca8a6d734e69e0136a9b87a237664c0403cc5e09.jpg)](https://github.com/aWahabMalik)
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab Malik</h1>
 <h3 align="center">I am a student developer from Pakistan. I am a Senior Student (6th Semester) at <a href = "https://pucit.edu.pk">PUCIT</a> Lahore. You can contact me for queries regarding any project.</h3>
