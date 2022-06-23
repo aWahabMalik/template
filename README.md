@@ -47,8 +47,8 @@
 
 ----
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahabmalik&show_icons=true&locale=en&layout=compact" alt="awahabmalik" width = '350' /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahabmalik&show_icons=true&locale=en&layout=compact" alt="awahabmalik" width = '300' /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=awahabmalik&show_icons=true&locale=en" alt="awahabmalik" width = "400" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=awahabmalik&show_icons=true&locale=en" alt="awahabmalik" width = "450" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahabmalik&" alt="awahabmalik" /></p>
